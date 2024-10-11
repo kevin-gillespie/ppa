@@ -1,0 +1,15 @@
+Package: riscv-gnu-toolchain
+Version: 14.0.2
+Architecture: amd64
+Maintainer: Kevin Gillespie <kevin.gillespie@analog.com>
+Installed-Size: 368138
+Depends: libc6 (>= 2.38), libexpat1 (>= 2.0.1), libgcc-s1 (>= 4.2), libgmp10 (>= 2:6.3.0+dfsg), libisl23 (>= 0.15), liblzma5 (>= 5.1.1alpha+20110809), libmpc3 (>= 1.1.0), libmpfr6 (>= 3.1.3), libncursesw6 (>= 6), libstdc++6 (>= 12), libtinfo6 (>= 6), libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.2)
+Filename: ./riscv-gnu-toolchain_14.0.2_amd64.deb
+Size: 77788764
+MD5sum: 51f5bef7b49170edba3bf11eae5627a8
+SHA1: 74b6558a78c7c955255ed6688210a923df12ac3d
+SHA256: a2f639179c7691acf79dab093057a6f33b65cc7859054252cb020ba34045be64
+Section: utils
+Priority: extra
+Description: riscv-gnu-toolchain
+
